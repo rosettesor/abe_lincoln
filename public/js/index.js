@@ -9,12 +9,12 @@ app.config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
     .state('colors', {
         url: "/colors",
-        templateUrl: "colors/template",
+        templateUrl: "colors",
         controller: "ListDetail"
     })
     .state('videos', {
         url: "/videos",
-        templateUrl: "videos/template",
+        templateUrl: "videos",
         controller: "ListDetail"
     });
 });
