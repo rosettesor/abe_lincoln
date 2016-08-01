@@ -1,0 +1,8 @@
+*.swp
+.DS_Store
+.idea/
+local.cfg.ini
+/tmp/
+/dvold
+.htaccess
+node_modules

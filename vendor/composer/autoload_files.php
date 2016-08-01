@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    $baseDir . '/lib/base.php',
+    '45e8c92354af155465588409ef796dbc' => $baseDir . '/lib/base.php',
 );

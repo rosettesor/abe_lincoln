@@ -1,23 +1,24 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1aad6a44c5aa6a961adbe2e08c94d894",
+    "hash": "46b9f341d3ee5f687d1f4cc6efb09bb3",
+    "content-hash": "0da062ce5b176578385ad7717c34d1f9",
     "packages": [
         {
             "name": "vlucas/valitron",
-            "version": "v1.2.3",
+            "version": "v1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/valitron.git",
-                "reference": "c7342e025a95b2e400153bc10b059b16018220fe"
+                "reference": "bb181072f427c1ba2ec8b433a0c35b60e99e207e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/valitron/zipball/c7342e025a95b2e400153bc10b059b16018220fe",
-                "reference": "c7342e025a95b2e400153bc10b059b16018220fe",
+                "url": "https://api.github.com/repos/vlucas/valitron/zipball/bb181072f427c1ba2ec8b433a0c35b60e99e207e",
+                "reference": "bb181072f427c1ba2ec8b433a0c35b60e99e207e",
                 "shasum": ""
             },
             "require": {
@@ -50,7 +51,7 @@
                 "validation",
                 "validator"
             ],
-            "time": "2014-11-20 15:24:40"
+            "time": "2016-03-15 21:14:19"
         }
     ],
     "packages-dev": [],
@@ -58,6 +59,7 @@
     "minimum-stability": "stable",
     "stability-flags": [],
     "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": {
         "php": ">=5.3.0"
     },
