@@ -35,8 +35,8 @@
   <div class="col-xs-12"><h1>ABRAHAM LINCOLN</h1></div>
   <div class="link-buttons-container col-xs-12">
     <div class="link-buttons col-xs-2 col-xs-offset-1"><a class="active" href="/">H O M E</a></div>
-    <div class="link-buttons col-xs-2"><a href="/colors">C O L O R</a></div>
-    <div class="link-buttons col-xs-2"><a href="/videos">V I D E O S</a></div>
+    <div class="link-buttons col-xs-2"><a href="./colors">C O L O R</a></div>
+    <div class="link-buttons col-xs-2"><a href="./videos">V I D E O S</a></div>
   </div>
   <div class="col-xs-12">
     <div class="insides col-xs-10 col-xs-offset-1">
