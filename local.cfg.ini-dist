@@ -1,0 +1,7 @@
+[globals]
+
+;1 to disable cache, 0 to enable it
+debug=0
+
+;base caching and potentially other logic on environment
+environment=dev
